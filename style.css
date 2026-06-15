@@ -1,5 +1,7 @@
 #links {
-    border-radius: 1px;
+    border-radius: 5px;
+    border-color: black;
+    background-color: white;
 }
 html {
     background-color: lightgrey;
