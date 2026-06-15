@@ -6,3 +6,8 @@
 html {
     background-color: lightgrey;
 }
+
+a {
+    color: red;
+    font-size: 25;
+}
